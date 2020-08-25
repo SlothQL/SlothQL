@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**SlothQL/SlothQL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Alina Linden 🦥 I am a software developer with a passion for problem solving and creating usable applications. I gained an interest in development while upskilling for a previous career as a graphics designer within print media. This quickly turned into a passion and I am now pursuing this by completing an intensive professional development course at [CodeClan](https://codeclan.com/) 🏴󠁧󠁢󠁳󠁣󠁴󠁿.
 
-Here are some ideas to get you started:
+## Social 🗣️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👩‍💻 LinkedIn at https://www.linkedin.com/in/alina-linden-0366551a8/
+- 🐤 Twitter at https://twitter.com/slothql
+- ✏️ Read my blog at https://slothql.dev/
+
+## Skills 💻
+
+- 💬 Languages - Ruby, JavaScript, Java, SQL
+- 📐 Frameworks - React, Spring, Node/Express, Sinatra, Bootstrap
+- 🖼️ Design - HTML, CSS, UX, Flexbox, Media Queries
+- 🥼 Techniques - Agile, Test-Driven Development,  Object-Orientated Programming, 
+- 💿 Technologies - Git, MongoDB, PostgreSQL
