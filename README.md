@@ -6,7 +6,6 @@ I am Alina Linden. 🦥 I am a software developer with a passion for problem sol
 
 - 👩‍💻 LinkedIn at https://www.linkedin.com/in/alina-linden
 - 🐤 Twitter at https://twitter.com/slothql
-- ✏️ Read my blog at https://slothql.dev/
 
 ## Skills 💻
 
