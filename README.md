@@ -10,7 +10,7 @@ I am Alina Linden. 🦥 I am a software developer with a passion for problem sol
 ## Skills 💻
 
 - 💬 Languages: Ruby, JavaScript, Java, SQL, Python
-- 📐 Frameworks: React, Spring, Node/Express, Sinatra, Bootstrap
+- 📐 Frameworks: React, Spring, Node/Express, Sinatra, Bootstrap, Django
 - 🖼️ Design: HTML, CSS, UX, Flexbox, Media Queries
 - 🥼 Techniques: Agile, Test-Driven Development,  Object-Orientated Programming
 - 💿 Technologies: Git, MongoDB, PostgreSQL
