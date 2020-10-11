@@ -20,3 +20,5 @@ I am Alina Linden. 🦥 I am a software developer with a passion for problem sol
 ## Stats :chart_with_upwards_trend:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SlothQL&hide=issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SlothQL&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
