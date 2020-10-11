@@ -17,6 +17,6 @@ I am Alina Linden. 🦥 I am a software developer with a passion for problem sol
 - 🥼 Techniques: Agile, Test-Driven Development,  Object-Orientated Programming
 - 💿 Technologies: Git, MongoDB, PostgreSQL
 
-##
+## Stats :chart_with_upwards_trend:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SlothQL&hide=issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
