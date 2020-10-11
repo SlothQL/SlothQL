@@ -2,7 +2,7 @@
 
 I am Alina Linden. 🦥 I am a software developer with a passion for problem solving and creating usable applications. I gained an interest in development while upskilling for a previous career as a graphic designer within print media. This quickly turned into a passion and I decided to pursue a career change. I recently completed the professional software development course at [CodeClan in Edinburgh](https://codeclan.com/). 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
-- :mortar_board: Currently learning: C#, Design Patterns, AWS
+- 🎓 Currently learning: C#, Design Patterns, AWS
 
 ## Social 🗣️
 
