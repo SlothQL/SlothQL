@@ -19,4 +19,4 @@ I am Alina Linden. 🦥 I am a software developer with a passion for problem sol
 
 ##
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SlothQL&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SlothQL&hide=issues&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
