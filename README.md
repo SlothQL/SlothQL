@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am Alina Linden. 🦥 I am a software developer with a passion for problem solving and creating usable applications. I gained an interest in development while upskilling for a previous career as a graphic designer within print media. This quickly turned into a passion and I decided to pursue a career change. I recently completed the professional software development course at [CodeClan in Edinburgh](https://codeclan.com/). 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+I am Alina Linden. 🦥 I am a software developer with a passion for problem solving and creating usable applications. After completing the professional software development course at [CodeClan](https://codeclan.com/), I am now working at a start-up in Edinburgh󠁧󠁢󠁳󠁣󠁴󠁿. 
 
-- 🎓 Currently learning: C#, Design Patterns
+- 🎓 Currently learning: React Hooks, GraphQL, AWS Certified Developer
 
 ## Social 🗣️
 
@@ -11,10 +11,10 @@ I am Alina Linden. 🦥 I am a software developer with a passion for problem sol
 
 ## Skills 💻
 
-- 💬 Languages: Ruby, JavaScript, Java, SQL, Python
+- 💬 Languages: Ruby, JavaScript, Java, SQL, Python, GraphQL
 - 📐 Frameworks: React, Spring, Node/Express, Sinatra, Bootstrap
-- 🖼️ Design: HTML, CSS, UX, Flexbox, Media Queries
-- 🥼 Techniques: Agile, Test-Driven Development,  Object-Orientated Programming
+- 🖼️ Design: HTML, CSS, UX, Flexbox, Media Queries, Recharts
+- 🥼 Techniques: Agile, Test-Driven Development,  Object-Orientated Programming, Functional Programming
 - 💿 Technologies: Git, MongoDB, PostgreSQL
 
 ## Stats :chart_with_upwards_trend:
